@@ -1,4 +1,22 @@
 # 👋 Hello, I'm Avinash Rai!  
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashAnalytics&show_icons=true&theme=radical)
+
+## 🛠️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnalytics&layout=compact&theme=radical)
+
+
+## Contributions Graph
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnalytics&theme=dark)
+
+
+
+
+
+
+
 ## 📊 Data Analyst | Python | SQL | Tableau  
 
 I am a passionate **Data Analyst** with expertise in uncovering insights and creating data-driven solutions.  
