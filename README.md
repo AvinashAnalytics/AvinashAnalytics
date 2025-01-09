@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Avinash Rai!       
-<img src="https://github.com/AvinashAnalytics/AvinashAnalytics/blob/71b1bff5339402f7c5968d6cf5fdd23036487978/a/freecompress-WhatsApp%20Video%202025-01-08%20at%2021.21.15_bf0cfd14%20(2).gif" width="300" height="200">
+<img src="https://github.com/AvinashAnalytics/AvinashAnalytics/blob/71b1bff5339402f7c5968d6cf5fdd23036487978/a/freecompress-WhatsApp%20Video%202025-01-08%20at%2021.21.15_bf0cfd14%20(2).gif" width="400" height="300">
 
 
 
