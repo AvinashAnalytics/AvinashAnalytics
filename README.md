@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Avinash Rai**!
-![Welcome Banner](https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif)
-< img src="https://imgbox.com/gallery/edit/hny19Vvogb/0FjNGgQCtLFMljh7" >
+![Welcome Banner](https://github.com/AvinashAnalytics/AvinashAnalytics/blob/102cb00f66b70056df6b05bc04dc0cff9cc479ed/a/Screen%20Recording%202025-01-09%20154730.gif)
+
 
 > **"Data is the new oil, but like oil, it must be refined to be valuable." – Peter Sondergaard**
 
