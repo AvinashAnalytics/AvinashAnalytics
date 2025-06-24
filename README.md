@@ -1,113 +1,138 @@
-# 👋 Hello, I'm **Avinash Rai**!
-![Welcome Banner](https://github.com/AvinashAnalytics/AvinashAnalytics/blob/102cb00f66b70056df6b05bc04dc0cff9cc479ed/a/Screen%20Recording%202025-01-09%20154730.gif)
+<h1 align="center">👋 Hello, I'm <span style="color:#38B6FF;"><b><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Avinash%20Rai%20%7C%20Data%20Analytics%20%F0%9F%94%A5&fontSize=25&animation=fadeIn" />
+</p>
 
+  
+<p align="center">
+  <strong>Status:</strong> <span style="color: ;"><b></b></span>🟢 Available for Projects & Roles
+</p>
+
+<p align="center">
+  <img src="https://github.com/AvinashAnalytics/AvinashAnalytics/blob/102cb00f66b70056df6b05bc04dc0cff9cc479ed/a/Screen%20Recording%202025-01-09%20154730.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=I+turn+data+into+decisions+%F0%9F%94%A5;BI+%7C+SQL+%7C+Python+%7C+ML+%7C+Cloud;Let's+make+data+do+the+magic+%F0%9F%A7%A8" alt="Typing SVG" />
+</p>
 
 > **"Data is the new oil, but like oil, it must be refined to be valuable." – Peter Sondergaard**
 
 ---
 
-## 📊 About Me
 
-I am a passionate **Data Analyst** with a strong academic background in **Mathematics** and **Computer Applications**. I specialize in transforming raw data into actionable insights to optimize business strategies and drive decision-making. I use data to tell compelling stories, identify trends, and forecast future outcomes.
+## 📊 About Me – I Turn Data into Decisions (And Sometimes Magic ✨)
 
-With expertise in **Python**, **SQL**, and **Tableau**, my goal is to deliver data-driven solutions that help businesses thrive in an increasingly data-centric world.
+Let’s be honest—data can be a mess.  
+I’ve spent countless hours cleaning spreadsheets, writing SQL queries that felt like decoding ancient scripts, and debugging Python code that refused to cooperate. But I love it.
 
----
+There’s something incredibly satisfying about turning raw numbers into clear, actionable insights that actually make a difference. Whether it’s forecasting revenue, optimizing processes, or building dashboards, I make sure data isn’t just collected—it’s understood and used to drive smart decisions.
 
-## 🛠️ Technical Skills
+If you have data but don’t know what to do with it, that’s where I come in.
 
-**Programming Languages & Frameworks:**  
-- 🐍 **Python** | 🔢 **SQL** | ⚡ **PySpark** | 🔍 **Scikit-Learn**  
+With expertise in **SQL**, **Python**, and **PySpark**, I work with large datasets to uncover trends, predict outcomes, and automate workflows. I also create interactive dashboards with **Power BI** and **Tableau** that turn complex data into insights people can actually use.
 
-**Data Analysis & Visualization:**  
-- 📊 **Tableau** | 🧮 **Pandas** | 📈 **Matplotlib** | 📉 **Seaborn** | 📋 **Jupyter Notebooks**  
-
-**Database Management:**  
-- 🗃️ **MySQL** | 🗃️ **SQL Server**  
-
-**Version Control:**  
-- 🚀 **Git** | 💻 **GitHub**
+Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud**, and **Azure Blob Storage**.
 
 ---
 
-## 🚀 Tools & Technologies I Use
+## 🚀 Why Work With Me? (Besides My Love for Data & Coffee ☕)
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/>
-  </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
-  </a>
+✔ I don’t just analyze—I solve real problems  
+✔ I build dashboards that people actually use  
+✔ I think beyond numbers and drive real business outcomes  
+✔ I automate and optimize workflows and data pipelines  
+✔ I stay ahead of the curve with AI, ML, and cloud tech  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,pyspark,tableau,powerbi,scikit-learn,snowflake,aws,gcp,azure,git,github,jupyter,docker,linux" />
 </p>
 
 ---
 
-## 🌟 My Projects
+## 📂 Featured Projects
 
-Here are some of my standout projects that demonstrate my expertise in data analytics:
+<details>
+  <summary><b>Click to Expand Full Project List 📁</b></summary>
 
-### **1. [Operational-Efficiency-Analysis](https://github.com/AvinashAnalytics/Operational-Efficiency-Analysis)**  
-**Description:** Built interactive dashboards and analyzed business operations to enhance efficiency and employee engagement using **Tableau** and **Power BI**.
+### **[Snowflake Data Pipeline – Czech Banking Project](https://github.com/AvinashAnalytics/End-to-End-Snowflake-Data-Pipeline)**  
+- Snowflake DW with S3 + Power BI  
+- Automated ingestion, star schema, 8+ tables
 
-### **2. [Uber-Operational-Data-Analysis](https://github.com/AvinashAnalytics/uber-operational-data-analysis)**  
-**Description:** Analyzed Uber’s operational data to uncover ride patterns, pricing strategies, and driver performance using **Python** and **SQL**.
+### **[Airline Sentiment Analysis Dashboard](https://github.com/AvinashAnalytics/Airline-Sentiment-Analysis) · [Live App](https://airline-sentiment-analysis-by-avinash.streamlit.app)**  
+- Real-time NLP sentiment using VADER  
+- 15K+ tweets, deployed with Streamlit
 
-### **3. [Credit-Score-Classification](https://github.com/AvinashAnalytics/credit_score_classification)**  
-**Description:** Developed a machine learning model to predict credit scores using **Scikit-Learn**, **Python**, and **SQL**.
+### **[SQL-Credit-Card-Analysis](https://github.com/AvinashAnalytics/SQL-Credit-Card-Analysis)**  
+- Fraud detection & user behavior insight  
+- Query optimization and advanced joins
 
-### **4. [Baby-Names-Analysis](https://github.com/AvinashAnalytics/BABY-NAMES-ANALYSIS)**  
-**Description:** Analyzed the popularity of baby names across decades, providing insightful visualizations using **Matplotlib** and **Seaborn**.
+### **[Credit-Score-Classification](https://github.com/AvinashAnalytics/credit_score_classification)**  
+- Classification ML model with feature engineering  
+- Evaluated risk bands & accuracy
 
-### **5. [Customer-Churn-Prediction](https://github.com/AvinashAnalytics/customer-churn-prediction)**  
-**Description:** Predicted customer churn using machine learning algorithms and data analysis techniques, enabling businesses to retain valuable customers.
+### **[Healthcare Claims Capstone Project](https://github.com/AvinashAnalytics/Healthcare-Claims-Capstone-Project)**  
+- CSV to MySQL to Power BI full-stack  
+- Provider Scorecard & KPI dashboards
 
-### **6. [Flight-Booking-Price-Prediction](https://github.com/AvinashAnalytics/Flight-Booking-Price-Prediction)**  
-**Description:** Created a predictive model to forecast flight prices based on historical data, using **Python** and **machine learning** techniques.
+### **[Operational Efficiency Analysis](https://github.com/AvinashAnalytics/Operational-Efficiency-Analysis)**  
+- BI dashboards in Tableau & Power BI  
+- Efficiency tracking and visualization
 
-### **7. [SQL-Credit-Card-Analysis](https://github.com/AvinashAnalytics/SQL-Credit-Card-Analysis)**  
-**Description:** Conducted SQL-based analysis on credit card transactions to detect fraud and understand spending behavior.
+### **[Baby Names Analysis](https://github.com/AvinashAnalytics/BABY-NAMES-ANALYSIS)**  
+- Historical naming trends using Matplotlib & Seaborn
 
----
+### **[Customer Churn Prediction](https://github.com/AvinashAnalytics/customer-churn-prediction)**  
+- Scikit-learn ML model for customer churn
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashAnalytics&show_icons=true&theme=radical)
-
----
-
-## 🛠️ Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnalytics&layout=compact&theme=radical)
-
----
-
-## 💡 Contributions Graph
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnalytics&theme=dark)
+### **[Flight Price Prediction](https://github.com/AvinashAnalytics/Flight-Booking-Price-Prediction)**  
+- Airline ticket forecasting using regression
+</details>
 
 ---
 
-## 📫 Contact Me
+## 📈 GitHub Stats & Contributions
 
-I’m always open to discussing data projects and collaboration opportunities. Feel free to reach out:
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AvinashAnalytics&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashAnalytics&layout=compact&theme=radical" />
+</p>
 
-- **Email:** [masteravinashrai@gmail.com](mailto:masteravinashrai@gmail.com)
-- **LinkedIn:** [Avinash Analytics](https://www.linkedin.com/in/avinashanalytics/)
-- **HackerRank:** [AvinashAnalytics](https://www.hackerrank.com/AvinashAnalytics)
-- **Twitter (X):** [@AvinashAnalytiX](https://x.com/AvinashAnalytiX)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashAnalytics&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashAnalytics&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+[![Profile Views](https://komarev.com/ghpvc/?username=AvinashAnalytics&style=flat-square&color=blue)](https://github.com/AvinashAnalytics)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AvinashAnalytics&theme=algolia&no-frame=true&column=7" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AvinashAnalytics/count.svg" />
+</p>
+
+
+<p align="center">
+  <a href="mailto:masteravinashrai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/avinashanalytics/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/AvinashAnalytiX"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/AvinashAnalytics"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+</p>
 
 ---
 
@@ -117,5 +142,4 @@ I’m always open to discussing data projects and collaboration opportunities. F
 
 ---
 
-Happy to connect and collaborate on interesting data projects! 🚀
-
+<p align="center"><b><i>Open to opportunities in 2025 | Let's talk data 🚀</i></b></p>
