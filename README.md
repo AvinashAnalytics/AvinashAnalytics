@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#38B6FF;"><b><p align="center">
+<h1 align="center">👋 Hello <span style="color:#38B6FF;"><b></b></span></h1>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Avinash%20Rai%20%7C%20Data%20Analytics%20%F0%9F%94%A5&fontSize=25&animation=fadeIn" />
 </p>
 
-  
-<p align="center">
-  <strong>Status:</strong> <span style="color: ;"><b></b></span>🟢 Available for Projects & Roles
-</p>
+<p align="center"><strong>Status:</strong> 🟢 Available for Projects & Roles</p>
 
 <p align="center">
   <img src="https://github.com/AvinashAnalytics/AvinashAnalytics/blob/102cb00f66b70056df6b05bc04dc0cff9cc479ed/a/Screen%20Recording%202025-01-09%20154730.gif" width="100%" />
@@ -19,36 +18,77 @@
 
 ---
 
+## 🧠 About Me
 
-## 📊 About Me – I Turn Data into Decisions (And Sometimes Magic ✨)
+Hi there! I'm **Avinash Rai**, a results-oriented **SQL Developer & Data Analyst** with a passion for transforming raw data into actionable insights. From building robust ETL pipelines to designing impactful dashboards and automating workflows — I specialize in creating scalable, data-driven solutions that help organizations make smarter decisions.
 
-Let’s be honest—data can be a mess.  
-I’ve spent countless hours cleaning spreadsheets, writing SQL queries that felt like decoding ancient scripts, and debugging Python code that refused to cooperate. But I love it.
+💼 I have hands-on experience working with tools like **Snowflake, Power BI, Python, SQL Server, and Alteryx**, delivering solutions across domains including **finance, manufacturing, HR, and healthcare**.
 
-There’s something incredibly satisfying about turning raw numbers into clear, actionable insights that actually make a difference. Whether it’s forecasting revenue, optimizing processes, or building dashboards, I make sure data isn’t just collected—it’s understood and used to drive smart decisions.
-
-If you have data but don’t know what to do with it, that’s where I come in.
-
-With expertise in **SQL**, **Python**, and **PySpark**, I work with large datasets to uncover trends, predict outcomes, and automate workflows. I also create interactive dashboards with **Power BI** and **Tableau** that turn complex data into insights people can actually use.
-
-Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud**, and **Azure Blob Storage**.
+I'm a strong believer in automation, clean design, and reproducible analytics. I enjoy building **modular pipelines**, **interactive dashboards**, and **efficient SQL logic** that not only solve today's problems — but are future-proof and maintainable.
 
 ---
 
-## 🚀 Why Work With Me? (Besides My Love for Data & Coffee ☕)
+## 🔧 I Specialize In
 
-✔ I don’t just analyze—I solve real problems  
-✔ I build dashboards that people actually use  
-✔ I think beyond numbers and drive real business outcomes  
-✔ I automate and optimize workflows and data pipelines  
-✔ I stay ahead of the curve with AI, ML, and cloud tech  
+- 🔄 Designing automated ETL workflows (SQL, Snowflake, Alteryx)  
+- 📊 Creating KPI dashboards in Power BI, Tableau, and Streamlit  
+- 🧹 Data cleaning, transformation, and modeling using Python (Pandas, NumPy)  
+- ☁️ Cloud-based data operations using AWS S3, GitHub, Streamlit Cloud  
+- ⚡ SQL query optimization for scalable, real-time analytics  
+
+🚀 Currently upskilling in **DBT**, **Azure Data Factory**, and **Matillion** for advanced data engineering workflows.
+
+🧩 Outside of data, I'm passionate about understanding systems — from backend infrastructure to business process design. Great analytics start with asking the *right* questions.
+
+📫 Feel free to connect or collaborate — I’m open to freelance roles, projects, or just a good data chat!
+
+---
+
+## 💻 Technical Skills
+
+### **SQL & Databases**
+`Snowflake` • `MySQL` • `SQL Server` • `Stored Procedures` • `Joins & Views` • `Query Optimization` • `RDBMS`
+
+### **ETL & Data Pipelines**
+`SQL-based ETL` • `Alteryx` • `Snowpipe` • `Excel VBA` • `Power Query` • `Task Automation` • `Data Cleaning`
+
+### **Business Intelligence & Dashboards**
+`Power BI (DAX, Power Query)` • `Tableau` • `Streamlit` • `Excel (PivotTables, Charts)` • `KPI Dashboards`
+
+### **Programming & Scripting**
+`Python (Pandas, NumPy, Scikit-learn, Regex)` • `Git` • `Jupyter Notebook`
+
+### **Cloud & Deployment**
+`AWS (S3)` • `Snowflake Cloud Platform` • `Streamlit Cloud` • `GitHub`
+
+### **Data Science (Basics)**
+`Logistic Regression` • `Forecasting` • `Sentiment Analysis (VADER)` • `Feature Engineering`
+
+### **Currently Exploring**
+`DBT (Data Build Tool)` • `Azure Data Factory` • `Matillion`
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,pyspark,tableau,powerbi,scikit-learn,snowflake,aws,gcp,azure,git,github,jupyter,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=sql,postgres,tableau,powerbi,sklearn,snowflake,aws,azure,jupyter,linux,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.png" width="45" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-Active-blue?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-Live-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -90,6 +130,7 @@ Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud
 
 ### **[Flight Price Prediction](https://github.com/AvinashAnalytics/Flight-Booking-Price-Prediction)**  
 - Airline ticket forecasting using regression
+
 </details>
 
 ---
@@ -112,8 +153,8 @@ Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud
 ---
 
 ## 🏆 GitHub Achievements
-[![Profile Views](https://komarev.com/ghpvc/?username=AvinashAnalytics&style=flat-square&color=blue)](https://github.com/AvinashAnalytics)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=AvinashAnalytics&style=flat-square&color=blue)](https://github.com/AvinashAnalytics)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AvinashAnalytics&theme=algolia&no-frame=true&column=7" />
@@ -122,10 +163,10 @@ Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud
 ---
 
 ## 📫 Let’s Connect
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/AvinashAnalytics/count.svg" />
 </p>
-
 
 <p align="center">
   <a href="mailto:masteravinashrai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -139,5 +180,3 @@ Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud
 ## 💬 My Philosophy
 
 > **"Without data, you're just another person with an opinion." – W. Edwards Deming**
-
----
