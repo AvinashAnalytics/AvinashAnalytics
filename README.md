@@ -141,5 +141,3 @@ Cloud-savvy ☁️ with hands-on experience in **AWS (S3, EC2)**, **Google Cloud
 > **"Without data, you're just another person with an opinion." – W. Edwards Deming**
 
 ---
-
-<p align="center"><b><i>Open to opportunities in 2025 | Let's talk data 🚀</i></b></p>
