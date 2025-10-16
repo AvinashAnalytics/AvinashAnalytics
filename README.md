@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello <span style="color:#38B6FF;"><b></b></span></h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Avinash%20Rai%20%7C%20Data%20Analytics%20%F0%9F%94%A5&fontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Data%20Engineer%20%7C%20Data%20Analytics%20%F0%9F%94%A5&fontSize=25&animation=fadeIn" />
 </p>
 
 <p align="center"><strong>Status:</strong> 🟢 Available for Projects & Roles</p>
